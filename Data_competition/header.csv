@@ -1,0 +1,58 @@
+0,Liquidity,,
+1,x1,,(Cash+Mark.Sec)/Current Liabilities
+2,x2,,(Cash+Mark.Sec)/Total Sales
+3,x3,,Cash/Current Assets
+4,x4,,Cash/Total Assets
+5,x5,,Current Assets/Current Liabilities
+6,x6,,Current Assets/Total Assets
+7,x7,,Current Liabilities/Total Assets
+8,x8,,Current Liabilities/Total Sales
+9,x9,,Inventories/Total Assets
+10,x10,,Quick Assets/Current Liabilities
+11,x11,,Quick Assets/Total Assets
+12,x12,,Working Capital/Total Assets
+13,x13,,Working Capital/Total Sales
+14,Solvency,,
+15,x14,,Financial Debt/Cash Flow
+16,x15,,Financial Expenses/EBITDA
+17,x16,,Financial Expenses/Net Income
+18,x17,,Financial Expenses/Total Assets
+19,x18,,Financial Expenses/Value Added
+20,Profitability,,
+21,x19,,Cash Flow/Shareholder Funds
+22,x20,,Cash Flow/Total Assets
+23,x21,,EBIT/Shareholder Funds
+24,x22,,EBIT/Total Assets
+25,x23,,EBITDA/Permanent Equity
+26,x24,,EBITDA/Total Assets
+27,x25,,Net Income/Shareholder Funds
+28,x26,,Net Income/Total Assets
+29,x27,,Profit before Tax/Shareholder Funds
+30,Financial Structure,,
+31,x28,,Long Term Debt/Shareholder Funds
+32,x29,,Long Term Debt/Total Assets
+33,x30,,Net Op.Work.Capital/Total Assets
+34,x31,,Shareholder Funds/Permanent Equity
+35,x32,,Shareholder Funds/Total Assets
+36,x33,,Total Debt/Shareholder Funds
+37,x34,,Total Debt/Total Assets
+38,Activity,,
+39,x35,,Cash Flow/Total Sales
+40,x36,,Cash Flow/Value Added
+41,x37,,EBIT/Value Added
+42,x38,,EBITDA/Total Sales
+43,x39,,Gross Trading Profit/Total Sales
+44,x40,,Net Income/Total Sales
+45,x41,,Net Income/Value Added
+46,x42,,Value Added/Fixed Assets
+47,x43,,Value Added/Total Assets
+48,x44,,Value Added/Total Sales
+49,Turnover,,
+50,x45,,Accounts Payable/Total Sales
+51,x46,,Current Assets/Total Sales
+52,x47,,Inventories/Total Sales
+53,x48,,Net.Op.Work.Capital/Total Sales
+54,x49,,Receivables/Total Sales
+55,x50,,Total Sales/Total Assets
+56,Year,,
+57,x51,,year of measurement
