@@ -10,4 +10,5 @@ Ce qui a été fait :
 
 -Importance des variables
 
+- Gaussian process (début)
 
