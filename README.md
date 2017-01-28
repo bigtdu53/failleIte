@@ -10,5 +10,9 @@ Ce qui a été fait :
 
 -Importance des variables
 
-- Gaussian process (début)
+-Gaussian process (début)
+
+-Algo EM univariate pour remplacement des NaN
+
+-GBT 
 
